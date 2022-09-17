@@ -1,0 +1,12 @@
+{
+  "name": "Money Taste (Geometry monster)",
+  "short_name": "Money Taste (Geometry monster)",
+  "id": "com.example.geometrymonster",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
